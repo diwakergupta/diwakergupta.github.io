@@ -1,0 +1,4 @@
+name: Snippets by @diwakergupta
+markdown: redcarpet
+pygments: true
+permalink: /:title.html
